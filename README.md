@@ -53,9 +53,6 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-This `README.md` includes icons for better readability and visual appeal, making the document more engaging for users.
-
 Happy coding and enjoy your Python learning journey! 🚀
 
 
